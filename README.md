@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution: [https://ghratika.github.io/QR-Code-ChallengeHub/]
+- Solution: [https://ghratika.github.io/Product-Preview-Card-Component/]
 
 ### Built with
 
